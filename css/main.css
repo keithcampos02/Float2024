@@ -6,8 +6,36 @@
 
 header{
     background-color: cornflowerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     height: 120px;
     margin: 15px;
 }
 
+img{
+    height: 200px;
+    width: 200px;
+}
+
+article{
+    float: left;
+    width: 200px;
+    margin: 60px;
+    text-align: center;
+}
+
+footer{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 1320px;
+    margin: 15px 15px;
+    text-align: center;
+    float: inline-end;
+}
+
+footer h4{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
