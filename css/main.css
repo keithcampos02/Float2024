@@ -1,0 +1,24 @@
+
+html{
+    background-color: blue;
+ 
+}
+
+body{
+
+    width: 100%;
+    margin: 15px auto;
+
+}
+header{
+color: white;
+text-align: center;
+padding: 10px 20px;
+}
+
+main{
+background-color: white;
+
+}
+
+
