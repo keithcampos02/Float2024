@@ -14,15 +14,23 @@ header{
     font-size: 12px;
     text-align: center;
 }
+.main_global{
+    background-color: yellow;
+    width: 100%;
+}
 img{
     width: 100%;
 }
 
 .imagen{
+    background-color: beige;
    width: 25%;
    float: left;
    box-shadow: border-box;
    padding: 1em;
+   background-size: cover;
+   background-repeat: no-repeat;
+   opacity: 0.8;
 }
 footer{
     width: 100%;
